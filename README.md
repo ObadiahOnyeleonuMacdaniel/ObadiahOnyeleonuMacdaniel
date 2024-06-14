@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MacDANIEL OBADIAH-ONYELEONU
-- 👀 I’m a Data Science and Data Analytics, who enjoys documenting his learning journey
+- 👀 I’m a Data Scientist/Data Analyst, who enjoys documenting his learning journey
 - 🌱 I’m currently learning AWS Cloud Computing
 - 💞️ I’m looking to collaborate on Data Analytics projects, volunteer or otherwise
 - 📫 Let's connect on linkedin, instagram, twitter and facebook
